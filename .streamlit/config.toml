@@ -1,0 +1,12 @@
+[server]
+# Prevent Streamlit from stopping on errors
+enableXsrfProtection = false
+fileWatcherType = "none"
+
+[client]
+# Show errors in the browser instead of crashing
+showErrorDetails = true
+
+[runner]
+# Don't stop server on uncaught exceptions
+fastReruns = false

@@ -1,0 +1,15 @@
+streamlit
+sqlalchemy
+pymysql
+sqlglot
+langchain-openai
+python-dotenv
+chromadb
+langchain-chroma
+langchain-community
+pypdf
+python-docx
+langchain-text-splitters
+langchain-experimental
+tiktoken
+faiss-cpu
